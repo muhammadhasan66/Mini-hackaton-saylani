@@ -1,0 +1,205 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.com{
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.picture{
+    background-image: url(./assets/no\ 1.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    padding-top: 40px;
+}
+.content{
+    /* font-size: larger;
+    color: red; */
+    padding-top: 450px;
+    margin-left: 20px;
+
+}
+.picture-2{
+    background-image: url(./assets/7.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    padding-top: 40px;
+}
+.content{
+    /* font-size: larger;
+    color: red; */
+    padding-top: 450px;
+    margin-left: 20px;
+
+}
+.picture-3{
+    background-image: url(./assets/6.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    padding-top: 40px;
+}
+.content{
+    /* font-size: larger;
+    color: red; */
+    padding-top: 450px;
+    margin-left: 20px;
+
+}
+.content button{
+    border-radius: 2px;
+    background-color: red;
+    color: white;
+    border: 2px solid red;
+
+}
+
+.content p{
+    color: white;
+    padding-top: 5px;
+}
+
+.content h2{
+    color: white;
+    margin-bottom: 10px;
+    margin-right: 12px;
+}
+.brand-toyota {
+    color: red;
+    font-size: larger;
+    font-weight: bolder;
+    padding-left: 30px;
+}
+.nav-bar {
+    color: black;
+    font-size: larger;
+}
+.nav-button1 {
+    padding:0 40 ;
+}
+
+
+
+/* -------------------------------------page 3---------------------------------------- */
+
+
+/* .NEWS {
+    display: flex;
+    justify-content: space-between;
+    
+   
+  
+  } */
+  
+  .News h2 {
+    padding: 20px;
+  }
+  
+  .News span {
+    padding: 20px;
+  }
+  .News1 {
+    display: flex;
+    justify-content: space-between;
+    width: 50vw;
+  }
+  
+  #NewsRoom {
+    display: flex;
+    background-color: #f6f6f6;
+  }
+  
+  #NewsRoom1 {
+    display: flex;
+  }
+
+.paragraph{
+    padding-top: 30px;
+    padding-left: 480px;
+    /* padding-bottom: ; */
+    /* background-color: #212121; */
+    color: #034f6d;
+}
+.footer-last {
+    padding: 40px 0 ;
+    background-color: rgb(23, 22, 22);
+    color: white;
+}
+
+/* news reporter  */
+.News {
+    display: flex;
+    justify-content: space-between;
+    width: 50vw;
+    
+   
+  
+  }
+  
+  .News h2 {
+    padding: 20px;
+  }
+  
+  .News span {
+    padding: 20px;
+  }
+  .News1 {
+    display: flex;
+    justify-content: space-between;
+    width: 45vw;
+  }
+  
+  #NewsRoom {
+    display: flex;
+    background-color: #f6f6f6;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
